@@ -4,7 +4,7 @@ go 1.20
 
 require (
 	github.com/go-delve/delve v1.21.0
-	//github.com/lib/pq v1.10.9
+	github.com/lib/pq v1.10.9
 	github.com/stretchr/testify v1.8.4
 )
 
@@ -26,6 +26,7 @@ require (
 	github.com/jackc/pgx/v5 v5.4.3
 	github.com/konsorten/go-windows-terminal-sequences v1.0.3 // indirect
 	github.com/kr/pretty v0.3.0 // indirect
+	github.com/lib/pq v1.10.9
 	github.com/pmezard/go-difflib v1.0.0 // indirect
 	github.com/sirupsen/logrus v1.6.0 // indirect
 	golang.org/x/arch v0.0.0-20190927153633-4e8777c89be4 // indirect
